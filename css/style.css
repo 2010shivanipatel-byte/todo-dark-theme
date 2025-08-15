@@ -1,0 +1,10 @@
+body { background-color:#121212; color:#f0f0f0; font-family:Arial,sans-serif; margin:0; padding:0;}
+header{text-align:center;padding:20px;}
+#add-task{display:flex;justify-content:center;gap:10px;margin:20px;}
+input,select,button{padding:5px;border-radius:5px;border:none;}
+button{cursor:pointer;background-color:#1f1f1f;color:white;}
+button:hover{background-color:#ff4d4d;}
+table{width:90%;margin:20px auto;border-collapse:collapse;}
+th,td{border:1px solid #444;padding:10px;text-align:center;}
+th{background-color:#1f1f1f;}
+tbody tr:nth-child(even){background-color:#1a1a1a;}

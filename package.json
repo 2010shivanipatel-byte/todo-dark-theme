@@ -1,0 +1,14 @@
+{
+  "name": "pro-todo-dark-theme",
+  "version": "1.0.0",
+  "description": "Professional dark theme To-Do List web app using Vanilla JS, HTML, CSS with Local Storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
